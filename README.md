@@ -1,6 +1,8 @@
 # HCV-Disease-Prediction
 This is a group project done in R as a part of my degree at Columbia University
 
+# Abstract
+
 Over the past few years, statistical learning has had a signiﬁcant impact on the 
 medical community. It has provided healthcare workers with new tools for analyz- 
 ing and interpreting data to make more informed decisions about patient care. It 
@@ -16,6 +18,8 @@ various stages of the disease - Hepatitis, Cirrhosis and Fibrosis. In addition t
 cating the results of some papers utilizing this dataset, we experiment with some 
 well known ML models and obtain substantial results which can be utlilized for the 
 timely diagnosis and treatment of Hepatitis C.
+
+# Conclusion
 
 The implications of the severity of Hepatitis C can be clearly gauged by the sheer widespread 
 and chronic nature of this disease. Thus, its timely diagnosis and treatment is one of the most 
